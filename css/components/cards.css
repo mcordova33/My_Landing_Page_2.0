@@ -1,0 +1,31 @@
+.cards-section {
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 0 8px rgb(171, 193, 214);
+  display: inline-block;
+  width: 230px;
+  height: 250px;
+  justify-content: space-between;
+  margin: 10px 45px;
+}
+
+.card img {
+  width: 120px;
+  height: 120px;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  color: rgb(138, 156, 175);
+  font-size: 16px;
+  margin: 18px 10px;
+}
+
+.cards-section h2 {
+  margin: 10px;
+}

@@ -1,0 +1,27 @@
+.banner {
+  background-image: cover;
+  background-size: cover;
+  object-fit: cover;
+  height: 600px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-container a {
+  display: inline-block;
+  margin : 10px;
+}
+
+.banner-container h1 {
+  margin : 10px;
+}
+
+.banner-container h2 {
+  margin : 10px;
+  font-size: 20px;
+  font-family: 'Open Sans';
+  font-weight: normal;
+  color: rgb(168, 161, 161);
+}
